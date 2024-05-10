@@ -1,0 +1,9 @@
+---
+contests:
+  - contest_name: Athletic Director
+    tally: plurality
+    contest_type: candidate
+    choices:
+    - Roy Kent
+    - Nathan Shelley
+submodules: []

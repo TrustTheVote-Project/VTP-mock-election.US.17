@@ -1,0 +1,20 @@
+---
+contests:
+  - contest_name: Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM?
+    tally: plurality
+    contest_type: question
+    win_by: 2/3
+    choices:
+    - yes
+    - no
+    description: |
+      Should the Town of Concord start the annual Town Meeting at 6:30 PM instead of 7:00 PM?
+GGOs:
+  precincts:
+  - 1
+  - 2
+voting centers:
+- Concord Carlisle High School:
+    street: 500 Walden St, Concord, MA 01742
+    id: 000001
+submodules: []

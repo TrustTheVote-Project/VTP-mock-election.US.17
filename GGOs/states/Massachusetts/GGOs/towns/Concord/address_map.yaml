@@ -1,0 +1,16 @@
+---
+unique-ballots:
+- addresses:
+  - .* Street
+  ggos:
+  - GGOs/states/Massachusetts
+  - GGOs/states/Massachusetts/GGOs/counties/Middlesex
+  - GGOs/states/Massachusetts/GGOs/towns/Concord
+  - GGOs/states/Massachusetts/GGOs/towns/Concord/GGOs/precincts/1
+- addresses:
+  - .* Road
+  ggos:
+  - GGOs/states/Massachusetts
+  - GGOs/states/Massachusetts/GGOs/counties/Middlesex
+  - GGOs/states/Massachusetts/GGOs/towns/Concord
+  - GGOs/states/Massachusetts/GGOs/towns/Concord/GGOs/precincts/2

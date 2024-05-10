@@ -1,0 +1,10 @@
+---
+contests:
+  - contest_name: County Clerk
+    tally: plurality
+    contest_type: candidate
+    choices:
+    - Jean-Luc Picard
+    - Katniss Everdeen
+    - James T. Kirk
+submodules: []

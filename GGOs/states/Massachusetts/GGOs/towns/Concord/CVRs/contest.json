@@ -1,1 +1,43 @@
-RxJplke36+T4xLA3A5O/dIuTX2ddwqOOkVDN2sDcs9KD9MbykgjqZtAoJipZ2oG0
+{
+    "contestCVR": {
+        "cast_branch": "CVRs/0000/1ca60c9f66",
+        "choices": [
+            {
+                "name": "Circle Party Ticket",
+                "ticket_names": [
+                    "Rey Skywalker",
+                    "Obi-Wan Kenobi"
+                ]
+            },
+            {
+                "name": "Square Party Ticket",
+                "ticket_names": [
+                    "Atticus Finch",
+                    "Hermione Granger"
+                ]
+            },
+            {
+                "name": "Triangle Party Ticket",
+                "ticket_names": [
+                    "Evelyn Quan Wang",
+                    "Waymond Wang"
+                ]
+            }
+        ],
+        "contest_name": "U.S. President",
+        "contest_type": "ticket",
+        "election_upstream_remote": "https://github.com/TrustTheVote-Project/",
+        "ggo": "GGOs/states/Massachusetts",
+        "max_selections": 1,
+        "selection": [
+            "Square Party Ticket"
+        ],
+        "tally": "plurality",
+        "ticket_titles": [
+            "President",
+            "Vice President"
+        ],
+        "uid": "0000",
+        "win_by": "0.5"
+    }
+}

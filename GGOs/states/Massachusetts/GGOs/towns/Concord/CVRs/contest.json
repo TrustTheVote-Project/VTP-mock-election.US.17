@@ -1,1 +1,25 @@
-RxJplke36+T4xLA3A5O/dIuTX2ddwqOOkVDN2sDcs9KD9MbykgjqZtAoJipZ2oG0
+{
+    "contestCVR": {
+        "cast_branch": "CVRs/0003/82090cc96a",
+        "choices": [
+            {
+                "name": "yes"
+            },
+            {
+                "name": "no"
+            }
+        ],
+        "contest_name": "Question 1 - should the starting time of the annual town meeting be moved to 6:30 PM?",
+        "contest_type": "question",
+        "description": "Should the Town of Concord start the annual Town Meeting at 6:30 PM instead of 7:00 PM?\n",
+        "election_upstream_remote": "https://github.com/TrustTheVote-Project/",
+        "ggo": "GGOs/states/Massachusetts/GGOs/towns/Concord",
+        "max_selections": 1,
+        "selection": [
+            "no"
+        ],
+        "tally": "plurality",
+        "uid": "0003",
+        "win_by": "2/3"
+    }
+}

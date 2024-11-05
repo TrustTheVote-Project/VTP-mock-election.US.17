@@ -1,1 +1,24 @@
-RxJplke36+T4xLA3A5O/dIuTX2ddwqOOkVDN2sDcs9KD9MbykgjqZtAoJipZ2oG0
+{
+    "contestCVR": {
+        "cast_branch": "CVRs/0004/3af915b5e0",
+        "choices": [
+            {
+                "name": "Rebecca Welton"
+            },
+            {
+                "name": "Keeley Jones"
+            }
+        ],
+        "contest_name": "Athletic Director",
+        "contest_type": "candidate",
+        "election_upstream_remote": "https://github.com/TrustTheVote-Project/",
+        "ggo": "GGOs/states/Massachusetts/GGOs/towns/Concord/GGOs/precincts/1",
+        "max_selections": 1,
+        "selection": [
+            "Keeley Jones"
+        ],
+        "tally": "plurality",
+        "uid": "0004",
+        "win_by": "0.5"
+    }
+}

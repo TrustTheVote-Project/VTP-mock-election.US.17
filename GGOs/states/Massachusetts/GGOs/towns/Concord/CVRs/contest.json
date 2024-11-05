@@ -1,1 +1,27 @@
-RxJplke36+T4xLA3A5O/dIuTX2ddwqOOkVDN2sDcs9KD9MbykgjqZtAoJipZ2oG0
+{
+    "contestCVR": {
+        "cast_branch": "CVRs/0002/5138edcaf3",
+        "choices": [
+            {
+                "name": "Jean-Luc Picard"
+            },
+            {
+                "name": "Katniss Everdeen"
+            },
+            {
+                "name": "James T. Kirk"
+            }
+        ],
+        "contest_name": "County Clerk",
+        "contest_type": "candidate",
+        "election_upstream_remote": "https://github.com/TrustTheVote-Project/",
+        "ggo": "GGOs/states/Massachusetts/GGOs/counties/Middlesex",
+        "max_selections": 1,
+        "selection": [
+            "Jean-Luc Picard"
+        ],
+        "tally": "plurality",
+        "uid": "0002",
+        "win_by": "0.5"
+    }
+}
